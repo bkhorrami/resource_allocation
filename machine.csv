@@ -1,0 +1,4 @@
+Instance Type,Cores,Memory,Daily Cost
+zoom.large,2,8,2.00
+zoom.xlarge,4,16,3.95
+zoom.2xlarge,8,32,7.90

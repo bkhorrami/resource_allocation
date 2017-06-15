@@ -1,0 +1,6 @@
+Process Type,Number,Cores,Memory
+Database,4,0.7,4.5
+Load Balancer,2,1.2,2.0
+Message Queue,8,0.5,2.5
+Cron Jobs,3,0.5,8.5
+Web Server,12,0.2,0.5
